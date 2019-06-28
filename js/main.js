@@ -1,2 +1,2 @@
 alert('hi');
-console.log('chitori???')
+console.log('chitori??? :D ')
